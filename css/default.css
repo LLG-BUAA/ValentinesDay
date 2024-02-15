@@ -95,6 +95,11 @@ body {
     color: #3f7f5f
 }
 
+#code .uncomments {
+    text-decoration: line-through;
+    color: #3f7f5f
+}
+
 #copyright {
     margin-top: 40px;
     text-align: center;
